@@ -1,0 +1,7 @@
+{
+  "prompt": "Single-frame editorial image, hand-authored procedurally: a tower of shrinking Arctic ice plates descending into a heated red-black oceanic void, no labels, no chart axes, emotionally severe, magazine-cover composition.",
+  "model": "Local procedural generation with Pillow",
+  "dataset_name": "NOAA/NSIDC Sea Ice Index monthly Arctic sea ice extent",
+  "dataset_url": "https://nsidc.org/data/seaice_index/data-and-image-archive",
+  "insight": "September Arctic sea ice extent has fallen dramatically since the satellite record began, making climate loss feel cumulative and irreversible."
+}

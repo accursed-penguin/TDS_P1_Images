@@ -1,0 +1,6 @@
+{
+  "prompt": "Physical scene: a wire mannequin in an open field enclosed by a hedge obsessively trimmed to its exact shape, while the surrounding landscape remains wild. No text, no diagrams, photographic plausibility.",
+  "model": "Local procedural generation with Pillow",
+  "concept": "overfitting",
+  "metaphor": "A landscape is groomed perfectly to one brittle template while the rest of reality is ignored, showing a model that memorizes one case instead of learning the world."
+}

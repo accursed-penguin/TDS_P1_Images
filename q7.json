@@ -1,0 +1,8 @@
+{
+  "prompt": "Single-frame composition using ukiyo-e grammar: flat indigo planes, strong contour lines, diagonal wave bands stepping toward a calm basin, visible paper grain, muted ochre sky, no text.",
+  "model": "Local procedural generation with Pillow",
+  "concept": "gradient descent",
+  "tradition_name": "Japanese Edo-period woodblock prints / ukiyo-e",
+  "tradition_period": "1603-1868",
+  "tradition_approach": "Used flat color planes, contour-led wave forms, visible grain, asymmetrical diagonals, and a restrained indigo-ochre palette so the descent reads through ukiyo-e spatial logic rather than modern shading."
+}
