@@ -3,5 +3,6 @@
   "model": "Gemini 3 Flash (Nano Banana 2)",
   "dataset_name": "NOAA / NSIDC Sea Ice Index",
   "dataset_url": "https://nsidc.org/data/seaice_index",
-  "insight": "The systematic conversion of a chronological time series into a physical sequence of diminishing, fragmenting ice forms to visualize the inevitable loss of Arctic sea ice."
+  "insight": "The systematic conversion of a chronological time series into a physical sequence of diminishing, fragmenting ice forms to visualize the inevitable loss of Arctic sea ice.",
+  "publish_email": true 
 }
