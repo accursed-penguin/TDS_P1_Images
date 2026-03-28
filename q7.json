@@ -1,8 +1,9 @@
 {
-  "prompt": "Single-frame composition using ukiyo-e grammar: flat indigo planes, strong contour lines, diagonal wave bands stepping toward a calm basin, visible paper grain, muted ochre sky, no text.",
-  "model": "Local procedural generation with Pillow",
-  "concept": "gradient descent",
-  "tradition_name": "Japanese Edo-period woodblock prints / ukiyo-e",
-  "tradition_period": "1603-1868",
-  "tradition_approach": "Used flat color planes, contour-led wave forms, visible grain, asymmetrical diagonals, and a restrained indigo-ochre palette so the descent reads through ukiyo-e spatial logic rather than modern shading."
+  "prompt": "A vertical Shanshui landscape representing gradient descent as a sequence of mist-filled mountain basins. Executed in hand-ground carbon ink on aged silk. Use Sanyuan (Three Distances) composition, with towering high-distance peaks descending through layered middle ground into deep-distance valleys. Depict the optimization path as a Feibai (Flying White) brushstroke winding downward toward the lowest global minimum. Structure the rock faces with sharp axe-cut Cun-fa texture strokes. Use liu-bai voids and diluted ink washes to imply an abstract high-dimensional loss landscape. Strictly avoid linear perspective and photographic shading. Monochrome ink-wash palette only, with a small red cinnabar artist seal in the lower left. --ar 2:3 --v 6.1",
+  "model": "DALL·E 3",
+  "concept": "Gradient Descent",
+  "tradition_name": "Shanshui (Literati Landscape Painting)",
+  "tradition_period": "Song Dynasty (960–1279)",
+  "tradition_approach": "Applies Sanyuan depth, Cun-fa texture, Feibai brushwork, and liu-bai voids so the concept reads through authentic monochrome Shanshui spatial grammar.",
+  "publish_email": true
 }
