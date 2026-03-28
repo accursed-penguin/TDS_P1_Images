@@ -1,6 +1,6 @@
 {
-  "prompt": "Physical scene: a wire mannequin in an open field enclosed by a hedge obsessively trimmed to its exact shape, while the surrounding landscape remains wild. No text, no diagrams, photographic plausibility.",
-  "model": "Local procedural generation with Pillow",
-  "concept": "overfitting",
-  "metaphor": "A landscape is groomed perfectly to one brittle template while the rest of reality is ignored, showing a model that memorizes one case instead of learning the world."
+  "prompt": "A physically plausible aerial landscape photograph of a lone hiker descending a rugged mountain slope at dawn, moving step by step along the steepest natural route into a small bowl-shaped basin in the foreground, while a much deeper valley lies beyond a nearby ridge in the same terrain. The landform should clearly show a shallow local depression trapping the current path and a lower global valley visible farther away. Real mountain geology, winding footpath, loose stones, mist in the low areas, natural erosion patterns, dramatic but realistic light, no fantasy elements. The scene must feel like a real place photographed from above, cinematic yet natural, highly detailed terrain, strong topographic readability, no text, no symbols, no diagrams, no labels, no equations, no graph-paper composition.\n\nNegative prompt:\nno charts, no plotted axes, no mathematical notation, no arrows, no labels, no infographic style, no surreal floating objects, no sci-fi elements, no artificial maze, no impossible terrain, no text in the environment, no overly stylized concept art",
+  "model": "DALL·E 3",
+  "concept": "local minimum",
+  "metaphor": "A hiker descends into a shallow basin while a deeper valley lies beyond the ridge; the basin is the local minimum, the farther valley the lower global minimum."
 }
